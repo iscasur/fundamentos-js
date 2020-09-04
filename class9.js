@@ -1,9 +1,10 @@
-var x = 4, y = '4'
+var x = 4,
+  y = "4";
 
 var israel = {
-	nombre: 'Israel'
-}
+  nombre: "Israel",
+};
 
 var kim = {
-	nombre: 'Kimberli'
-}
+  nombre: "Kimberli",
+};
